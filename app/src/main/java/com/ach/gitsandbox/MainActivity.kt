@@ -7,5 +7,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        // this is a comment for feature 1 to merge before feature 3 or 4
+
     }
 }
