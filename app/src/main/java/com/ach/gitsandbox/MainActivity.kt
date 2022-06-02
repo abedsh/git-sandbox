@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         // this is a comment for feature 1 to merge before feature 3 or 4
 
+
+        // this is a comment for feature 2 to merge before feature 3 or 4
+
+
     }
 }
