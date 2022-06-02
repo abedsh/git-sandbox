@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        
+
         // this is a comment for feature 4 to see how rebasing to an updated dev works
     }
 }
