@@ -8,6 +8,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
+
+        // this is a comment for feature 4 to see how rebasing to an updated dev works
+
         // this is a comment for feature 1 to merge before feature 3 or 4
 
 
