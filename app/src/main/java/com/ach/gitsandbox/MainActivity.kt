@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         // this is a comment for feature 2 to merge before feature 3 or 4
 
         // this is a comment for feature_to_merge which will be merged before feature_to_rebase
+        // this is a comment for feature_to_merge2 which will be merged before feature_to_rebase
 
     }
 }
