@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         //this is merged
         // this is rebased
         // to rebase2
+        // to rebase3
 
     }
 }
