@@ -23,6 +23,13 @@ class MainActivity : AppCompatActivity() {
 
 
         // this is a comment for alpha to merge
+        // this is a comment for feature_to_merge which will be merged before feature_to_rebase
+        // this is a comment for feature_to_merge2 which will be merged before feature_to_rebase
+        // this is a comment for feature_to_merge435224 which will be merged before feature_to_rebase
+        // this is a comment for feature_to_merge3432 which will be merged before feature_to_rebase
+
+
+        // this is a comment for alpha to merge
 
     }
 }
