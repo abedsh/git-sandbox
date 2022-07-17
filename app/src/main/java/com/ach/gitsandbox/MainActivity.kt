@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         //this is merged
         // this is rebased
+        // to rebase2
 
     }
 }
