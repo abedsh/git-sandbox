@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // this is a comment for feature alpha to merge before feature 3 or 4
+
 
         // this is a comment for feature 1 to merge before feature 3 or 4
 
